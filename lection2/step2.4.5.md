@@ -6,7 +6,7 @@ GHCi> ip
 "127.224.120.12"
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 a = 127.2

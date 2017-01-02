@@ -25,7 +25,7 @@ h = undefined
 GHCi> multSecond ('A',2) ('E',7)
 14
 ```
-Answer:
+**Answer:**
 
 ```haskell
 import Data.Function

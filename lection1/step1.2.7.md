@@ -4,7 +4,7 @@
 GHCi> lenVec3 2 3 6
 7.0
 ```
-Answer:
+**Answer:**
 
 ```haskell
 lenVec3 x y z =  sqrt (x^2 + y^2 + z^2)

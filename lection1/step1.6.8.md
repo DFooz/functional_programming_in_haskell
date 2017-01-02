@@ -12,7 +12,7 @@ Time Limit: 5 seconds
 Memory Limit: 256 MB
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 sum'n'count :: Integer -> (Integer, Integer)

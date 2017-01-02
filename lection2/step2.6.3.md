@@ -8,7 +8,7 @@ myUnion [] ys = ys
 myUnion xs ys = union xs ys
 ```
 
-Answer:
+**Answer:**
 
 ```
 Произойдет ошибка из-за неопределенности при выборе функции

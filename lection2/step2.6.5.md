@@ -22,7 +22,7 @@ module Baz where
 import Bar
 ```
 
-Answer:
+**Answer:**
 
 ```
  c

@@ -9,7 +9,7 @@ dist :: (Double, Double) -> (Double, Double) -> Double
 dist p1 p2 = ???
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 dist :: (Double, Double) -> (Double, Double) -> Double

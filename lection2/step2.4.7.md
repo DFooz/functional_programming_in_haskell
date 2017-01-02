@@ -23,7 +23,7 @@ GHCi> ssucc True
 False
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 class (Enum a, Bounded a, Eq a) => SafeEnum a where

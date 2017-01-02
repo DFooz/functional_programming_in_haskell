@@ -11,7 +11,7 @@ garply = grault 'q'
 waldo = foo
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 * baz

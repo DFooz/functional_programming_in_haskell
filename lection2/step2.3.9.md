@@ -11,7 +11,7 @@ GHCi> toString (True,False)
 Примечание. Объявление класса типов ```Printable``` и представителей этого класса
 для типов ```()``` и  ```Bool``` заново реализовывать не надо — они присутствуют в программе, вызывающей ваш код.
 
-Answer:
+**Answer:**
 
 ```haskell
 instance (Printable a, Printable b) => Printable (a,b) where

@@ -7,7 +7,7 @@ GHCi> twoDigits2Int '4' '2'
 42
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 import Data.Char

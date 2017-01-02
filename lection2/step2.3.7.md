@@ -12,7 +12,7 @@ GHCi> toString ()
 "unit type"
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 class Printable a where

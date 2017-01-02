@@ -12,7 +12,7 @@ g = undefined
 h = undefined
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 doItYourself = f . g . h

@@ -14,7 +14,7 @@ curry uncurry flip (,) const
 ```
 Укажите через запятую подходящую тройку f,g,h.
 
-Answer:
+**Answer:**
 
 ```
 uncurry,flip,(,)

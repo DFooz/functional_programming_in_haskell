@@ -8,7 +8,7 @@ GHCi> avg 3 4 8
 5.0
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 avg :: Int -> Int -> Int -> Double

@@ -13,7 +13,7 @@ GHCi> sum3squares 1 2 3
 14
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 on3 :: (b -> b -> b -> c) -> (a -> b) -> a -> a -> a -> c

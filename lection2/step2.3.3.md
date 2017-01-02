@@ -4,7 +4,7 @@ True + False * False
 ```
 могло бы быть типизировано.
 
-Answer:
+**Answer:**
 
 ```
 Num Bool

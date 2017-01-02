@@ -4,7 +4,7 @@
 GHCi> sign (-100)
 -1
 ```
-Answer:
+**Answer:**
 
 ```haskell
 sign x = if x > 0 then 1 else if x < 0 then (-1) else 0

@@ -10,7 +10,7 @@ GHCi> seqA 301
 1276538859311178639666612897162414
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 seqA :: Integer -> Integer

@@ -20,7 +20,7 @@ class (KnownToGork a, KnownToMork a) => KnownToGorkAndMork a where
 ```stab```, а потом ```stomp```, если оно приводит в ярость их обоих. Если не происходит ничего из
 вышеперечисленного, метод должен возвращать переданный ему аргумент.
 
-Answer:
+**Answer:**
 
 ```haskell
 class KnownToGork a where

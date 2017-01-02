@@ -4,7 +4,7 @@
 (let x = 'w' in [x,'o',x]) ++ "!".
 ```
 
-Answer:
+**Answer:**
 
 ```
 wow!

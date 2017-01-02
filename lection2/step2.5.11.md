@@ -22,7 +22,7 @@ quux n (x, y) = let x' = x + 1
                 in x' `seq` y' `seq` n' `seq` quux n' p
 ```
 
-Answer:
+**Answer:**
 
 ```
 foo

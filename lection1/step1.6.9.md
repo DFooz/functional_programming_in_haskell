@@ -12,7 +12,7 @@ GHCi> integration sin pi 0
 
 Результат может отличаться от -2.0, но не более чем на 1e-4.
 
-Answer:
+**Answer:**
 
 ```haskell
 integration :: (Double -> Double) -> Double -> Double -> Double

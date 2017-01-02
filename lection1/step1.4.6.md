@@ -18,7 +18,7 @@ standardDiscount :: ???
 standardDiscount = discount 1000 5 
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 discount :: Double -> Double -> Double -> Double

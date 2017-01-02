@@ -8,7 +8,7 @@ GHCi> getSecondFrom 'x' 42 True
 42
 ```
 
-Answer:
+**Answer:**
 
 ```haskell
 getSecondFrom :: t -> t2 -> t1 -> t2

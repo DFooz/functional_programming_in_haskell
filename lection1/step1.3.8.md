@@ -4,7 +4,7 @@
 GHCi>  5 |-| 7
 2
 ```
-Answer:
+**Answer:**
 
 ```haskell
 x |-| y = abs(x-y)
