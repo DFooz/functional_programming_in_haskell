@@ -12,5 +12,5 @@ Answer:
 
 ```haskell
 avg :: Int -> Int -> Int -> Double
-avg a b c = (fromIntegral (a + b + c)) / 3
+avg a b c = (fromIntegral a + fromIntegral  b + fromIntegral c) / 3
 ```
