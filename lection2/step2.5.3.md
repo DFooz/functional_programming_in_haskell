@@ -1,3 +1,5 @@
+**Problem:**
+
 Предположим, что стандартные функции определены следующим образом:
 ```haskell
 id x = x
@@ -11,8 +13,14 @@ f $ x = f x
 const $ const (4 + 5) $ max 42
 ```
 
-Answer:
+**Answer:**
 
 ```
 3
 ```
+
+**Description:**
+
+1. `(4 + 5)`
+2. second `const`
+3. first `const`

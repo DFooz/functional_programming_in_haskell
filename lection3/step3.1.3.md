@@ -10,5 +10,5 @@ GHCi> addTwoElements 2 12 [85,0,6]
 
 ```haskell
 addTwoElements :: a -> a -> [a] -> [a]
-addTwoElements x y z = x:(y:z)
+addTwoElements x y z = x : y : z
 ```
