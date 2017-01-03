@@ -1,4 +1,7 @@
+**Problem:**
+
 В каких из перечисленных ниже функций seq предотвратит образование всех thunk’ов:
+
 ```haskell
 foo x = x `seq` x
 
@@ -25,8 +28,8 @@ quux n (x, y) = let x' = x + 1
 **Answer:**
 
 ```
-foo
-bar
-baz
-*quux
+- [ ] foo
+- [ ] bar
+- [ ] baz
+- [x] quux
 ```
