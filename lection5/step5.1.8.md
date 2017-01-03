@@ -1,6 +1,6 @@
 **Problem:**
 
-Определите представителя класса Functor для бинарного дерева, в каждом узле которого хранятся элементы типа Maybe:
+Определите представителя класса `Functor` для бинарного дерева, в каждом узле которого хранятся элементы типа Maybe:
 
 ```haskell
 data Tree a = Leaf (Maybe a) | Branch (Tree a) (Maybe a) (Tree a) deriving Show

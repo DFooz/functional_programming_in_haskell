@@ -16,7 +16,6 @@ isEqual (a, b) (a', b') = a == a' && b == b'
 
 **Answer:**
 
-```haskell
 - [ ] isEqual undefined undefined
 
 - [x] isEqual (undefined, undefined) (undefined, undefined)
@@ -30,5 +29,3 @@ isEqual (a, b) (a', b') = a == a' && b == b'
 - [ ] emptyOrSingleton undefined 5
 
 - [ ] isEqual (undefined, undefined) undefined
-
-```
